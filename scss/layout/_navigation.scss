@@ -1,0 +1,36 @@
+nav{
+border: 1px solid $color-border;
+background-color: $bg-color;
+}
+	ul {
+		margin: 0;
+		padding: 0;
+
+		li {
+			list-style-position: inside;
+			font: 14px $fontFamily;
+			display: inline-block;
+			padding: 10px 30px;
+			margin: 0;
+		 a {
+	text-decoration: none;
+}
+			
+		}
+	}
+
+.top-menu{
+ li {
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+	a {
+	color: $color-main;
+}
+}
+
+ li.active {
+	background: $color-active;
+	color: $color-text-active;
+}
+}
