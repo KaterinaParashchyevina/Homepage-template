@@ -1,1 +1,1 @@
-Homepage PSD template with HTML5 and SCSS. Compiled with Koala App.
+Homepage template with HTML5 and SCSS. Compiled with Koala App.
